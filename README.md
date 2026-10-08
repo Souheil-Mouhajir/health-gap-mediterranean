@@ -4,7 +4,7 @@ This project compares life expectancy at birth in five **North African** countri
 
 Author: Souheil Mouhajir, The George Washington University, Elliott School of International Affairs. October 2026.
 
-[View the rendered report](https://souheil-mouhajir.github.io/health-gap-mediterranean/comparison_charts.html.)
+[View the rendered report](https://souheil-mouhajir.github.io/health-gap-mediterranean/comparison_charts.html)
 
 ## Findings
 
