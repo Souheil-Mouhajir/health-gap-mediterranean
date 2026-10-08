@@ -1,0 +1,7 @@
+numpy
+pandas==3.0.5
+matplotlib==3.11.2
+plotly==7.1.0
+scipy==1.18.1
+jupyter
+tabulate==0.10.0
